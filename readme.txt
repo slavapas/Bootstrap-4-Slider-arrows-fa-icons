@@ -1,4 +1,4 @@
-replace in the main file wich is responsible for slider
+replace in the main file which is responsible for slider
 <span class="carousel-control-prev-icon" aria-hidden="true"></span> and <span class="carousel-control-next-icon" aria-hidden="true"></span>
 
 with
